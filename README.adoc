@@ -1,0 +1,7 @@
+Main Header
+===========
+:Author:    Yamir Encarnacion
+:Email:     <yencarnacion@webninjapr.com>
+:Date:      April 21, 2015
+
+This repo contains the source that I <Yamir Encarnacion> created as I was following along with the book _Play for Scala_ by Peter Hilton, Erik Bakker, and Francisco Canedo.  See http://manning.com/hilton/[http://manning.com/hilton]
